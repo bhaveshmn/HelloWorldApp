@@ -43,7 +43,7 @@
         android:gravity="center"
         android:layout_marginTop="70dp"
         android:textColor="@android:color/white"
-        android:textSize="35dp"
+        android:textSize="36dp"
         android:text="Button" />
 
 
